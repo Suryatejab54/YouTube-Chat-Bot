@@ -65,7 +65,7 @@ Paste any YouTube link and instantly **chat with the video content** — powered
 
 ### 1) Clone the repo
 ```bash
-git clone https://github.com/AbdulRehman393/youtube-qa-assistant.git
+git clone https://github.com/Suryatejab54/youtube-chat-bot.git
 cd youtube-qa-assistant
 ```
 
