@@ -1,4 +1,4 @@
-# 🎬 YouTube Q&A Assistant — AI-Powered Video Intelligence
+# 🎬 YouTube Chat Bot — AI-Powered Video Intelligence
 
 Paste any YouTube link and instantly **chat with the video content** — powered by a **RAG (Retrieval-Augmented Generation)** pipeline that grounds responses in the video transcript.
 
@@ -140,7 +140,7 @@ Key defaults from `config.py`:
 
 ## 🚀 LinkedIn Caption (Project Intro)
 
-**Introducing YouTube Q&A Assistant — AI-Powered Video Intelligence.**
+**Introducing Youtube chatbot — AI-Powered Video Intelligence.**
 
 Paste any YouTube link and instantly chat with the video content, powered by a RAG engine that grounds every answer directly in the transcript.
 
@@ -169,4 +169,5 @@ If you want, I can add a recommended license (commonly **MIT**) and update the R
 ## 👤 Author
 
 **Abdul Rehman**  
-GitHub: `@AbdulRehman393`
+GitHub: `@Suryatejab54
+`
