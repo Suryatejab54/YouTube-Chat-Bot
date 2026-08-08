@@ -168,6 +168,6 @@ If you want, I can add a recommended license (commonly **MIT**) and update the R
 
 ## 👤 Author
 
-**Abdul Rehman**  
+**Suryateja**  
 GitHub: `@Suryatejab54
 `
